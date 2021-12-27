@@ -12,8 +12,8 @@
 Код для микроконтроллера Slave - `code/slave.ino`  
 
 Схема подключения - `data/scheme.png`  
-Лог работы - `monitor.txt`  
-Демонстрация работы в Tinkercad - `working.png`  
+Лог работы - `data/monitor.txt`  
+Демонстрация работы в Tinkercad - `data/working.png`  
 
 ## Описание работы  
 
