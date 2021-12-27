@@ -1,0 +1,32 @@
+Waiting for data
+
+
+Received data:
+A0:966; A1:966; A2:966; A3:966; A4:966; 
+This data:
+A0:966; A1:966; A2:966; A3:966; A4:966; 
+
+Received data:
+A0:966; A1:966; A2:966; A3:966; A´:966; 
+This data:
+A0:966; A1:966; A2:966; A3:98; A4:100; 
+
+Received data:
+A0:966; A1:966; A2:966; A3:966; A4:966; 
+This data:
+A0:76; A1:188; A2:111; A3:98; A4:100; 
+
+Received data:
+A0:966; A1:966; A2:966; A3:966; A4:966; 
+This data:
+A0:76; A1:188; A2:111; A3:98; A4:100; 
+
+Received data:
+A0:966; A1:966; A2:966; Á3:199; A4:144; 
+This data:
+A0:76; A1:188; A2:111; A3:98; A4:100; 
+
+Received data:
+A0:144; A1:122; A2:144; A3:199; A4:144; 
+This data:
+A0:76; A1:76; A2:111; A3:98; A4:100; 
