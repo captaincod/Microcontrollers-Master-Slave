@@ -14,6 +14,7 @@
 Схема подключения - `data/scheme.png`  
 Лог работы - `data/monitor.txt`  
 Демонстрация работы в Tinkercad - `data/working.png`  
+
 ![Демонстрация работы](https://user-images.githubusercontent.com/46486971/147482887-e5c2998e-dcf6-47bb-9705-09c4f6c5745c.png)
 
 ## Описание работы  
