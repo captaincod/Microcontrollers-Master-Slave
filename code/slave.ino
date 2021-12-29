@@ -6,11 +6,7 @@ int array_size  = sizeof(ph_resistors) / sizeof(ph_resistors[0]);
 
 void setup(){
   
-  Serial.begin(9600);
-  
-  while (!Serial) {
-    Serial.println("not serial?");
-  }
+  Serial.begin(115200);
   
   slave_serial.begin(4800);
 }
